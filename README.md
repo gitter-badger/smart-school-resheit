@@ -1,4 +1,6 @@
 # smart school!
+
+[![Join the chat at https://gitter.im/smart-school-resheit/Lobby](https://badges.gitter.im/smart-school-resheit/Lobby.svg)](https://gitter.im/smart-school-resheit/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 אפליקציה ווב ליהול ציוני תמילדים לבתי ספר -אנחנו נתמקד עבור בית ספר יסודי- בראשית
 יש להם תהליך מוגדר להכנת תעודה שבו המורים נותנים ציונים ובעיקר הערכות מילוליות,
 לאחר מכן המחנכים עוברים על כל ההערות לאחר מכן זה עובר לרכזי שכבה ובסוף למנהלת. 
